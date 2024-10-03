@@ -18,7 +18,7 @@ This project involves a comprehensive analysis of Blinkit's sales performance, c
 
 7. Conclusion
 
-## Project Steps
+##1. Project Steps
 1. Requirement Gathering & Business Understanding
 2. Data Walkthrough and Connection
 3. Data Cleaning and Quality Check
@@ -29,7 +29,7 @@ This project involves a comprehensive analysis of Blinkit's sales performance, c
 8. Final Report Development
 9. Insights Generation
 
-## Business Requirements
+##2. Business Requirements
 
 The project focuses on analyzing the following aspects of Blinkit's business operations:
 
@@ -37,13 +37,13 @@ The project focuses on analyzing the following aspects of Blinkit's business ope
 ### Customer Satisfaction: Average customer rating per product.
 ### Inventory Distribution: Analysis of fat content and its impact on sales.
 
-## KPIs and Metrics
+##3. KPIs and Metrics
 ### Total Sales: Overall revenue generated.
 ### Average Sales: Average revenue per sale.
 ### Number of Items Sold: Count of different items sold.
 ### Average Rating: Customer ratings for sold items.
 
-## Visualizations
+##4. Visualizations
 
 ### Total Sales by Fat Content (Donut Chart)
 ### Total Sales by Item Type (Bar Chart)
@@ -53,14 +53,15 @@ The project focuses on analyzing the following aspects of Blinkit's business ope
 ### Sales by Outlet Location (Funnel Map)
 ### All Metrics by Outlet Type (Matrix Card)
 
-## How to Use
+##5. How to Use
 #### Clone this repository.
 #### Open the Power BI file to explore the dashboard.
 #### Review the insights by interacting with the filters and slicers.
 
-## Insights
+##6. Insights
 This dashboard provides insights into how Blinkit can optimize sales by analyzing:
 
+##7.  Conclusion
 #### Outlet establishment types and sales performance.
 #### Impact of fat content on customer purchasing behavior.
 #### Geographic distribution of sales across various outlets.
