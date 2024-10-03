@@ -65,3 +65,7 @@ This dashboard provides insights into how Blinkit can optimize sales by analyzin
  Outlet establishment types and sales performance.
  Impact of fat content on customer purchasing behavior.
  Geographic distribution of sales across various outlets.
+
+https://github.com/user-attachments/assets/4e161c97-a2bc-43fe-a388-f59fb7bbd480
+
+
