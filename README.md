@@ -66,6 +66,8 @@ This dashboard provides insights into how Blinkit can optimize sales by analyzin
  Impact of fat content on customer purchasing behavior.
  Geographic distribution of sales across various outlets.
 
-https://github.com/user-attachments/assets/4e161c97-a2bc-43fe-a388-f59fb7bbd480
+
+https://github.com/user-attachments/assets/aaf20f29-7642-447d-aceb-10002a9d99df
+
 
 
